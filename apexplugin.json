@@ -1,0 +1,36 @@
+{
+    "name": "Multiple Avatars",
+    "version": "1.0",
+    "description": "Display multiple avatars",
+    "keywords": ["avatars"],
+    "homepage": "https://github.com/LouisMoreaux/apex-multiple-avatars",
+    "bugs": {
+      "url": "https://github.com/LouisMoreaux/apex-multiple-avatars/issues",
+      "email": "moreaux.louis@gmail.com"
+    },
+    "license": "MIT",
+    "commercial": "No",
+    "author": {
+      "name": "Louis Moreaux",
+      "email": "moreaux.louis@gmail.com",
+      "url": "https://lmoreaux.hashnode.dev/",
+      "twitter": "moreaux_louis",
+      "donationUrl": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/LouisMoreaux/apex-multiple-avatars.git"
+    },
+    "oracle": {
+      "versions": ["23.2.0", "21.1.0", "19.1.0"],
+      "apex": {
+        "versions": ["23.1.0"],
+        "plugin": {
+          "internalName": "DEV.LMOREAUX.MULTIPLE_AVAIARS",
+          "type": "template component",
+          "demo": "https://apex.oracle.com/pls/apex/r/louis/template-component/multipe-avatars",
+          "previewImage": ""
+        }
+      }
+    }
+  }
