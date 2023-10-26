@@ -3,9 +3,9 @@ Oracle APEX - Multiple Avatar Template Component Plug-in
 
 A template component useful to display a list of user's avatar.
 
-![Screenshot showing the Multiple Avatars template component plug-in used as a single region to displays avatars with initials, icons or images and with and without limits](/assets/preview2.png "Screenshot showing the Multiple Avatars template component plug-in")
+![Screenshot showing the Multiple Avatars template component plug-in used as a single region to displays avatars with initials, icons or images and with and without limits](/assets/preview2.png?raw=true "Screenshot showing the Multiple Avatars template component plug-in")
 
-![Screenshot showing the Multiple Avatars template component plug-in used as in interactive reports with initials, icons or images and with and without limits](/assets/preview.png "Screenshot showing the Multiple Avatars template component plug-in")
+![Screenshot showing the Multiple Avatars template component plug-in used as in interactive reports with initials, icons or images and with and without limits](/assets/preview.png?raw=true "Screenshot showing the Multiple Avatars template component plug-in")
 
 ## Installation
 Import the file located at plug-in/template_component_plugin_apex_lmoreaux_multiple_avatars.sql
