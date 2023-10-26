@@ -26,10 +26,10 @@
       "apex": {
         "versions": ["23.1.0"],
         "plugin": {
-          "internalName": "DEV.LMOREAUX.MULTIPLE_AVAIARS",
+          "internalName": "APEX.LMOREAUX.MULTIPLE_AVATARS",
           "type": "template component",
           "demo": "https://apex.oracle.com/pls/apex/r/louis/template-component/multipe-avatars",
-          "previewImage": ""
+          "previewImage": "https://github.com/LouisMoreaux/apex-multiple-avatars/blob/main/assets/preview.PNG?raw=true"
         }
       }
     }

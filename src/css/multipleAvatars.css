@@ -22,10 +22,6 @@ orclapex-avatars a:not(:first-child) .avatar {
     margin-left: var(--margin-left);
 }
 
-orclapex-avatars .avatars-container {
-    display: flex;
-}
-
 orclapex-avatars .placeholder {
     background-color: rgb(174 174 174);
 }
@@ -47,3 +43,5 @@ orclapex-avatars a:focus .avatar {
     transform: scale(1.1);
     border-color: var(--ut-focus-outline-color);
 }
+
+
